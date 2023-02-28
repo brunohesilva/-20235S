@@ -1,0 +1,8 @@
+Etapas do ciclo de vidas do software genericamente
+
+Requisitos
+Analise
+Projeto
+Implementação
+Teste
+Operação
